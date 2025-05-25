@@ -169,7 +169,6 @@ CREATE TABLE IF NOT EXISTS Supply (
 );
 
 
-
 -- 15. Requisition
 CREATE TABLE IF NOT EXISTS Requisition (
     requisition_number INT PRIMARY KEY,
